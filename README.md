@@ -15,7 +15,7 @@ Projeto simples para praticar a função Math.random() do JavaScript, criando um
 - Exibição do resultado na tela com ALERTA
 - 
 ## 💻 Como Usar
-Acesse: 
+Acesse: https://ingridalvesfarias.github.io/dev-sorteio/
 
 
 ## Imagem do projeto
