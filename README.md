@@ -12,8 +12,7 @@ Projeto simples para praticar a função Math.random() do JavaScript, criando um
 ## 📋 Funcionalidades
 - Definir um valor mínimo e máximo para o sorteio
 - Validação de entradas (evita valores não numéricos e mínimo maior que máximo)
-- Exibição do resultado na tela com ALERTA
-- 
+
 ## 💻 Como Usar
 Acesse: https://ingridalvesfarias.github.io/dev-sorteio/
 
